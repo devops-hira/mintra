@@ -1,2 +1,3 @@
+Added line at line no zero
 added new line to file
 This is my first file
